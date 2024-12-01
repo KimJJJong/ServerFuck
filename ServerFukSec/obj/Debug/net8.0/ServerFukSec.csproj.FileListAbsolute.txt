@@ -1,0 +1,14 @@
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\bin\Debug\net8.0\ServerFukSec.exe
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\bin\Debug\net8.0\ServerFukSec.deps.json
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\bin\Debug\net8.0\ServerFukSec.runtimeconfig.json
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\bin\Debug\net8.0\ServerFukSec.dll
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\bin\Debug\net8.0\ServerFukSec.pdb
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.AssemblyInfoInputs.cache
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.AssemblyInfo.cs
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.csproj.CoreCompileInputs.cache
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.dll
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\refint\ServerFukSec.dll
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.pdb
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ServerFukSec.genruntimeconfig.cache
+C:\Users\JJONG\source\repos\ServerFukSec\ServerFukSec\obj\Debug\net8.0\ref\ServerFukSec.dll
